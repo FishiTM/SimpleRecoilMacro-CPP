@@ -2,11 +2,11 @@
 *A Simple Recoil Macro Program Written In C++*
 
 ## Some Info:
-I have just started learning C++ so this is very messy code and I know I have a lot to learn but "*it works*"
+I have just started learning C++ so this is very messy code and I know it sucks but "*it works*"
 
 ## Features:
 #### General
-* Toggle On/Off (Not Keybing By Input)
+* Toggle On/Off (Not Keybind, By Input)
 #### Settings
 * Choose Between Mouse 1/2/1+2
 * Change The X, Y Or Sleep Value
